@@ -1,0 +1,70 @@
+
+    .search{
+        height:44px;
+        width:250px
+    }
+    .icon-green{
+        color:rgb(23, 59, 23);
+    }
+    .color-text-1{
+        color:rgb(26, 99, 26);
+    }
+    .color-text-2{
+        color:brown;
+    }
+    .color-text-green{
+        color:rgb(25, 59, 23);
+    }
+    .color-text-gray{
+        color:darkgray;
+    }
+
+    .color-text-bolder{
+        color:rgb(26, 99, 26);
+        font-weight: bolder;
+    }
+    .bg-main{
+        background-color:rgb(106, 150, 106);
+    }
+    .bg-title1{
+        background-color:linen;
+        height:inherit
+    }
+    .bg-nav{
+        background-color: darkseagreen;
+    }
+    .bg-btn{
+        background-color: rgb(170, 201, 170);
+    }
+    .bottom-sha{
+        box-shadow: 0 4px 2px -2px gray;
+    }
+    .align-cent{
+        vertical-align: middle;
+    }
+    a{
+        text-decoration: none;
+        color:rgb(25, 59, 23);
+    }
+    a:hover{
+        color:white;
+    }
+    .bg-btn:hover {
+        background-color:rgb(2, 65, 2);
+        color:white;
+      }
+    .centerbox{
+        vertical-align: middle;
+    }
+    .font{
+        font-family:Georgia;
+    }
+    .textshadow{
+        text-shadow: 1px 1px black;
+    }
+    .active:visited{
+        background-color: rgb(170, 201, 170);
+    }
+    body {
+        font-family:Cursive;
+    }
